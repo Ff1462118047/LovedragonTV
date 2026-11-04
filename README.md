@@ -9,7 +9,7 @@
 ![商店转账](images/shop.png)
 
 ## 安装
-把 zip 拖进 AstralParty Toys 的「导入 Mod」，或解压到 `mods\LovedragonTV\`
+把 zip 拖进 [AstralParty Toys](https://github.com/higashitaniyume/AstralParty.Toys) 的「导入 Mod」，或解压到 `mods\LovedragonTV\`
 
 ## 配置
 在 Toys 的 ⚙ 里改：总开关 / 角色名 / 岔路跟随 / 商店转账 / 调试日志
